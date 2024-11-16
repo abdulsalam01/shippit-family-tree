@@ -1,6 +1,7 @@
 # Shippit Family Tree
 
 **By**: abdulsalam01
+
 **Version**: 1.0.0
 
 ## Overview
@@ -148,4 +149,5 @@ This project uses TypeScript for type safety and Jest for testing. The extensibl
 ---
 
 For questions or contributions, please contact the author or submit a pull request on GitHub.
+
 by: Abdul Salam
